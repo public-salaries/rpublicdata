@@ -1,2 +1,3 @@
-# rpublicdata
-R data package for the public salaries project
+## Public Salaries Data
+
+R package for public salaries data.
